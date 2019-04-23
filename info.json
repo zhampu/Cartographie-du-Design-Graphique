@@ -1,15 +1,16 @@
 {
-	"title": "Binder",
+	"title": "Une cartographie de la recherche en Design Graphique",
 	"logo" : "logo.png",
 	"about" : "Link some sites together.",
 	"menu" : {
-		"About" : "https://docs.google.com/document/d/1L8uIUdE58AsP-jnHD_H6df3T2DNFsegImPidkTwpYLw/",
-		"Download" : "https://docs.google.com/document/d/1aKVEphpLq3UUBkhoStJVhmkiOWRQmALAj-bphbk-KTU/",
-		"Binder In-Use" : "https://docs.google.com/document/d/1q9957u3P0SfFzwTzaWlu1ZeJ4FEZ0H4MF-cJBSm4Y-s/",
-		"Google Slides" : "https://docs.google.com/presentation/d/1gdX17MpgdyhiAQKTPehMWEYf914cYF4GtuY7m1jD7Qo/embed?start=true&loop=true&delayms=5000",
-		"Tumblr" : "http://cempontraoryartdaily.tumblr.com/",
-		"PDF" : "http://www.nasa.gov/pdf/373665main_NASA-SP-2009-566.pdf",
-		"Youtube" : "https://www.youtube.com/embed/Sdi2S1PHS_s",
-		"Wikipedia" : "https://en.wikipedia.org/wiki/Web_page"
+		"exposition": "http://juangomez.co/expo-recherche-design-graphique.fr/PDF/Introduction.pdf",
+			"introduction": "http://juangomez.co/expo-recherche-design-graphique.fr/PDF/Introduction.pdf",
+			"territoires": "http://juangomez.co/expo-recherche-design-graphique.fr/PDF/Territoires.pdf",
+			"chercheurs":"https://docs.google.com/document/d/1sDn4sxR55UWAjwFuiC8Ye81edg5z0cf4odwdva3AZpM/view?usp=sharing",
+			"archives": "https://drive.google.com/drive/folders/0Bw3THas1fVIFaURTT0s1RkxIOEk?usp=sharing",
+			"questionnaires": "https://docs.google.com/document/d/1G8nS0MJfki1XCFy881jzuuheqrSyhggi47LXXTPxfHI/view?usp=sharing",
+			"économie": "https://docs.google.com/document/d/1DBN2bCofPJa_3myCcmlJMLPA7wX1DD8S95J76gXpb-c/view?usp=sharing",
+			"ailleurs": "https://docs.google.com/document/d/1boa2xV1fRtsezrzNWnRPTfF8wHKWmaf94MX7lGjSPRw/view?usp=sharing",
+			"credits": "http://juangomez.co/expo-recherche-design-graphique.fr/PDF/Crédits.pdf"
 	}
 }
