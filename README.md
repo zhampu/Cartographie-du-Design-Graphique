@@ -1,4 +1,4 @@
-# a cartographie of graphic design research
+# A cartographie of graphic design research
 Website for the exhibition "Une cartographie du Design Graphique"
 
 
